@@ -16,7 +16,7 @@ application:
   proxyPath: ''
 authentication:
   google:
-    enabled: true
+    enabled: false
     clientId: replace me with the real value
     clientSecret: replace me with the real value
     redirectURL: ''
@@ -34,17 +34,17 @@ authentication:
     searchFilter: '(uid={{username}})'
     searchAttributes: ''
   local:
-    enabled: false
+    enabled: true
     accounts:
-      - username: ''
-        passwordHash: ''
+      - username: 'hero'
+        passwordHash: 'bf5b45543c92183346353dc9e6680f6a436f9c53'
         email: ''
 features:
   markitup: false
   codemirror: true
 server:
   hostname: localhost
-  port: 6067
+  port: 1501
   localOnly: false
   baseUrl: ''
   CORS:
