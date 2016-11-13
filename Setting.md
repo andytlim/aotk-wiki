@@ -6,6 +6,7 @@
 ## Avalon
 * Key Areas
 	* [[Avalon Lake]]
+* Cities
     
 ## Hallah
 * Key Areas
