@@ -1,0 +1,1 @@
+Emir is the reigning king of [[Avalon]].
