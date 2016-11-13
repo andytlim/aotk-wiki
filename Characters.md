@@ -1,2 +1,2 @@
-## House of Avalon
+## Royal House of Avalon
 * [[Emir Avalon]]
