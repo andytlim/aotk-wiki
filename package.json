@@ -1,0 +1,21 @@
+{
+  "name": "aotk-wiki",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "wiki": "jingo -c config.yaml"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andytlim/aotk-wiki.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andytlim/aotk-wiki/issues"
+  },
+  "homepage": "https://github.com/andytlim/aotk-wiki#readme",
+  "dependencies": {
+    "jingo": "^1.7.1"
+  }
+}
