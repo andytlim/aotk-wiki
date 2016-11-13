@@ -1,3 +1,3 @@
 [[Articles of the King]]
-[[Places]]
+[[Setting]]
 [[Characters]]
