@@ -2,7 +2,7 @@ Avalon is one of the many worlds blessed by [[Dew]]. Ever since [[The Fall of Ha
 
 In Avalon, all living things are blessed with [[mavis]]. 
 
-## Events
+## Timeline
 * [[Reign of Sinclaire]]
 * [[The Fall of Hallah]]
 
