@@ -4,7 +4,7 @@ In Avalon, all living things are blessed with [[mavis]].
 
 ## Avalon Timeline
 * [[Reign of Sinclaire]]
-* [[Fall of Hallah]]
+* [[The Fall of Hallah]]
 
 ## Trivia
 * Avalon eventually becomes the legendary island featured in the Arthurian legend.
