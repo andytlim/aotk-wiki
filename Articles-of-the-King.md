@@ -1,1 +1,1 @@
-Articles of the King is a series of short stories about the origins of [Avalon](/Avalon).
+Articles of the King is a series of short stories about the origins of [[Avalon]].
