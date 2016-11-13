@@ -4,7 +4,3 @@
     * [[Hallah]]
     * [[New Hallah]]
 * [[Characters]]
-	* General
-    	* [[Dew]]
-	* [[House of Avalon]]
-    	* [[Emir Avalon]]
