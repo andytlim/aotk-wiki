@@ -1,1 +1,1 @@
-Dew is the creator of the world [[Hallah]]. It is not know how many worlds Dew has created.
+Dew is the creator of the world [[Hallah]]. It is unknown how many worlds Dew has created.
