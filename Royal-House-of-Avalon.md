@@ -1,0 +1,1 @@
+The Royal House of Avalon was established by [[Emir Avalon]] who won the [[The Battle of Shamah]].
