@@ -1,0 +1,1 @@
+Hallah is the name of world [[Avalon]] before [[The Fall of Hallah]].
