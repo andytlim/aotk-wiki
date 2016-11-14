@@ -8,7 +8,7 @@ Dew bathed Lilith in the [[Lake of Shamac]] and established a pact with her, whi
 
 The moment the pact was made, all the people of Hallah experienced the beginning emotions of Love. And Lilith taught them. Lilith became the embodiment of Love, and she could feel everyone's emotions. 
 
-But in addition to Love, the people of Hallah began to feel other emotions that were brought into this world and it tainted Lilith. Lilith eventually became overwhelmed with corrupt emotions, forcing Dew to destroy the pact in order to save Lilith. The Great Drop was shattered into [13 pieces](/wiki/Tears) as a result. Even after the link was severed, the corruption did not leave Lilith. Dew then exiled Lilith from Hallah and hid himself from the world.
+But in addition to Love, the people of Hallah began to feel other emotions that were brought into this world and it tainted Lilith. Lilith eventually became overwhelmed with corrupt emotions, forcing Dew to destroy the pact in order to save Lilith. The Great Drop was shattered into [13 pieces](/wiki/Tears) as a result. Even after the link was severed, the corruption did not leave Lilith. Dew then took Lilith from Hallah and left the world.
 
 ## Royal Houses
 After many years passed, the outcome of the division of the people of Hallah led to the beginning of Royal Houses.
