@@ -8,7 +8,7 @@
 	* [[Lake Eliade]]
 * Cities
     
-## Hallah
+## New Hallah
 * Key Areas
 	* [[The Grand Stage]]
 * Cities
