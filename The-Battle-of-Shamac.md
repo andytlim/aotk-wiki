@@ -1,1 +1,1 @@
-**The Battle of Shamac** refers to a coup d'etat led by [[Emir Avalon]] against the [[Royal House of Sinclaire]] that took place in the capital city of [[Shamac]].
+**The Battle of Shamac** refers to a coup d'etat led by [[Emir Avalon]] against the [[Royal House of Sinclair]] that took place in the capital city of [[Shamac]].
