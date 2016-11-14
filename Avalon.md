@@ -1,4 +1,4 @@
-Avalon is a world blessed by [[Dew]]. Ever since [[The Fall of Hallah]], the world has been named by the current ruling [[Royal House]]. The [[Royal House of Avalon]] began it's reign at the end of the [[The Battle of Shamac]].
+Avalon is one of the worlds created by [[Dew]]. Ever since [[The Fall of Hallah]], the world has been named by the current ruling [[Royal House]]. The [[Royal House of Avalon]] began it's reign at the end of the [[The Battle of Shamac]].
 
 In Avalon, all living things are blessed with [[mavis]]. 
 
