@@ -4,7 +4,7 @@ After several generations had passed, Dew wanted to bring Love into existence. A
 
 Dew raised Lilith as his daughter until the coming of age. He taught her many things about the world he created and finally on the 10th [[Day of Shamac]], Dew asked her if she wanted the gift of Love and the wonders it would bring. He also warned her about the shortcomings it may entail. Even so, Lilith accepted whole-heartedly.
 
-Dew then bathed Lilith in the [[Lake of Shamac]] and established a pact with her, which was [[the Great Drop]] and Lilith became awakened and knew what Love was. Dew then told her to go and teach the people Love.
+Dew bathed Lilith in the [[Lake of Shamac]] and established a pact with her, which was [[the Great Drop]]. Lilith became awakened and knew what Love was. Dew then told her to go and teach the people Love.
 
 The moment the pact was made, all the people of Hallah experienced the beginning emotions of Love. And Lilith taught them. 
 
