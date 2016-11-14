@@ -1,0 +1,1 @@
+The capital city of the [[Royal House of Sinclair]].
