@@ -5,7 +5,7 @@
 
 ## Avalon
 * Key Areas
-	* [[Avalon Lake]]
+	* [[Lake Eliade]]
 * Cities
     
 ## Hallah
