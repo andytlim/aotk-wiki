@@ -1,0 +1,1 @@
+Divine constructs are weapons or artifacts that have a large concentration of mana.
