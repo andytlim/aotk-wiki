@@ -1,1 +1,1 @@
-Emir is the reigning king of [[Avalon]].
+Emir is the reigning king of [[Avalon]]. He is only surviving member of the Avalon family from the last war.
