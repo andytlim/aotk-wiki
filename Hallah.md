@@ -1,1 +1,1 @@
-Hallah is the name of world [[Avalon]] before [[The Fall of Hallah]].
+Hallah is the name of country ruled by the House of Avalon. It is also a place mentioned in the folktale, [[The Fall of Hallah]].
