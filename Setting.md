@@ -1,7 +1,6 @@
 ## Worlds
 * [[Hallah]]
 * [[Avalon]]
-* [[New Hallah]]
 
 ## Avalon
 * Key Areas
