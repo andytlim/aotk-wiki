@@ -1,8 +1,7 @@
 ## Worlds
 * [[Hallah]]
-* [[Avalon]]
 
-## Avalon
+## Hallah
 * Key Areas
 	* [[Lake Eliade]]
 * Cities
