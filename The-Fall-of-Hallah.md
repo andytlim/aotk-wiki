@@ -14,5 +14,5 @@ But in addition to Love, the people of Hallah began to feel other emotions that 
 After many years passed, the outcome of the division of the people of Hallah led to the beginning of Royal Houses.
 
 ## Quotes
-*"Love cannot exist without. To become Love, you will also be without. What Love you become will be forever. What without you gain, all will lose."*
-*"I know not Love, but I will what you ask. I will become without, in the hope to be forever."*
+*"Love cannot exist without. To become Love, you will also be without. What Without you become will stumble. What Love you become will be forever."*
+*"I know not Love, but I will. I will become without, in the hope to be forever."*
