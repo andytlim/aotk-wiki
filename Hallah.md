@@ -1,1 +1,1 @@
-Hallah is the name of country created by Amarion Eliade. It is also a place mentioned in the folktale, [[The Fall of Hallah]].
+Hallah is the name of country founded/created by Amarion Eliade. It is also a place mentioned in the folktale, [[The Fall of Hallah]].
