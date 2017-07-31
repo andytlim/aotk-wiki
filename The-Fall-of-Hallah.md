@@ -1,4 +1,4 @@
-The **Fall of Hallah** is a Avalonian tale that pertains to the a point in history where the world was originally named [[Hallah]] (not to be confused with [[New Hallah]]). [[Dew]] created Mana, which gave life to the Hallah and humans were brought into existence. He spent his days in Hallah with his people. During this time period, there were no [[Royal House]]s and everyone lived in harmony with Dew. 
+The **Fall of Hallah** is a Avalonian tale that pertains to the a point in history where the world was originally named Hallah. [[Dew]] created Mana, which gave life to the Hallah and humans were brought into existence. He spent his days in Hallah with his people. During this time period, there were no [[Royal House]]s and everyone lived in harmony with Dew. 
 
 After several generations had passed, Dew wanted to bring Love into existence. And on the birth of the 6th generation of children, Dew took one of the newborn babies and named her Lilith, who he had planned to give the gift of Love to.  
 
