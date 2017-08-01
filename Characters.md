@@ -1,7 +1,7 @@
 ## House of Avalon
 * [Emir Avalon](/wiki/Emir Avalon)
 * [Haleal Avalon](/wiki/Haleal Avalon)
-* [Eiyu Avalon](/wiki/Eiyu Avalon)
+* [Eo Avalon](/wiki/Eiyu Avalon)
 * Eliade Household
 	* [Amarion Eliade](/wiki/Amarion Eliade)
     * [Jeral Eliade](/wiki/Jeral Eliade)
@@ -10,6 +10,7 @@
 	* [Rahel Amiarte](/wiki/Rahel Amiarte)
 
 ## House of Sinclair
+* [Enzo Sinclair](/wiki/Enzo Sinclair)
 * [Clove Sinclair](/wiki/Clove Sinclair)
 
 ## House of Asim
