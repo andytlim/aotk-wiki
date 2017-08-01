@@ -1,7 +1,5 @@
 ## House of Avalon
 * [Emyr Avalon](/wiki/Emyr Avalon)
-* [Aled Avalon](/wiki/Aled Avalon)
-* [Arel Avalon](/wiki/Arel Avalon)
 * Eliade Household
 	* [Amarion Eliade](/wiki/Amarion Eliade)
     * [Jeral Eliade](/wiki/Jeral Eliade)
