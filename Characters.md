@@ -1,4 +1,4 @@
-## Royal House of Avalon
+## House of Avalon
 * [Emir Avalon](/wiki/Emir Avalon)
 * [Haleal Avalon](/wiki/Haleal Avalon)
 * [Eiyu Avalon](/wiki/Eiyu Avalon)
@@ -9,10 +9,10 @@
 * Other
 	* [Rahel Amiarte](/wiki/Rahel Amiarte)
 
-## Royal House of Sinclair
+## House of Sinclair
 * [Clove Sinclair](/wiki/Clove Sinclair)
 
-## Royal House of Asim
+## House of Asim
 
 # References
 * [Egyptian Names](http://www.sheknows.com/baby-names/egyptian-baby-names)
