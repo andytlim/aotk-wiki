@@ -7,3 +7,6 @@ Raa becomes a curse from the previous king. Emir grows frightened of the curse a
 TBD
 * What is the curse?
 * What makes sense to be terrifying enough to prod Emir to continue the Sinclair research?
+
+## Trivia
+* Emir's name comes from the Arabic word [Amir](https://en.wikipedia.org/wiki/Emir)
