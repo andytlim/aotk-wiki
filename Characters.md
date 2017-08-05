@@ -9,7 +9,7 @@
 
 ## House of Sinclair
 * [Enzo Sinclair](/wiki/Enzo Sinclair)
-* [Juxt Sinclair](/wiki/Juxt Sinclair)
+* [Clove Sinclair](/wiki/Clove Sinclair)
 
 ## House of Asim
 
