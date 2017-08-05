@@ -1,1 +1,0 @@
-Reigning king during the _____ age. He dies during the Breakout War.
