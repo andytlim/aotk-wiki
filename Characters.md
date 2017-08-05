@@ -8,7 +8,7 @@
 	* [Rahel Amiarte](/wiki/Rahel Amiarte)
 
 ## House of Sinclair
-* [Juxt Sinclair](/wiki/Enzo Sinclair)
+* [Juxt Sinclair](/wiki/Juxt Sinclair)
 * [Clove Sinclair](/wiki/Clove Sinclair)
 
 ## House of Asim
